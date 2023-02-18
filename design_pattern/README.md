@@ -16,7 +16,7 @@ python版本：python3.8+
 
 设计模式之间的关系图：
 
-![设计模式之间的关系](E:\github_space\CodeZero\design_pattern\README.assets\the-relationship-between-design-patterns.jpg)
+![设计模式之间的关系](https://raw.githubusercontent.com/lindo-zy/CodeZero/main/design_pattern/README.assets/the-relationship-between-design-patterns.jpg)
 
 参考：https://www.runoob.com/design-pattern/design-pattern-intro.html
 
@@ -30,7 +30,7 @@ python版本：python3.8+
 
 参考：http://shusheng007.top/2020/02/16/010/
 
-![1676705713436](E:\github_space\CodeZero\design_pattern\README.assets\1676705713436.png)
+![Image text](https://raw.githubusercontent.com/lindo-zy/CodeZero/main/design_pattern/README.assets/1676705713436.png)
 
 工厂模式：创建对象时不会对客户端暴露创建逻辑，并且是通过使用一个共同的接口来指向新创建的对象。定义一个创建对象的接口，让其子类自己决定实例化哪一个工厂类，工厂模式使其创建过程延迟到子类进行。
 
@@ -46,7 +46,7 @@ python版本：python3.8+
 
 ##### UML图：
 
-![工厂方法模式结构](E:\github_space\CodeZero\design_pattern\README.assets\structure.png)
+![工厂方法模式结构](https://raw.githubusercontent.com/lindo-zy/CodeZero/main/design_pattern/README.assets/structure.png)
 
 
 
