@@ -16,7 +16,7 @@ python版本：python3.8+
 
 设计模式之间的关系图：
 
-![设计模式之间的关系](https://raw.githubusercontent.com/lindo-zy/CodeZero/main/design_pattern/README.assets/the-relationship-between-design-patterns.jpg)
+![设计模式之间的关系](https://raw.githubusercontent.com/lindo-zy/CodeZero/main/images/the-relationship-between-design-patterns.jpg)
 
 参考：https://www.runoob.com/design-pattern/design-pattern-intro.html
 

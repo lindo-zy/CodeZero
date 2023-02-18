@@ -65,13 +65,13 @@
 
 ## 创建型
 
-| 名称                             | 难度 | 链接 |
-| -------------------------------- | ---- | ---- |
-| 工厂模式（Factory Method）       | 2星  |      |
-| 抽象工厂模式（Abstract Factory） | 4星  |      |
-| 建造者模式（Builder）            | 2星  |      |
-| 单例模式（Singleton）            | 1星  |      |
-| 原型模式（Prototype）            | 1星  |      |
+| 名称                                                         | 难度 |
+| ------------------------------------------------------------ | ---- |
+| [工厂模式（Factory Method）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95.md) | 2星  |
+| 抽象工厂模式（Abstract Factory）                             | 4星  |
+| 建造者模式（Builder）                                        | 2星  |
+| 单例模式（Singleton）                                        | 1星  |
+| 原型模式（Prototype）                                        | 1星  |
 
 ## 结构型
 
