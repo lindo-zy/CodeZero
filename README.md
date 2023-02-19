@@ -1,7 +1,6 @@
 # CodeZero
+
 前言：从0到1，一步一步迈向架构师之路
-
-
 
 ## 简介
 
@@ -9,29 +8,21 @@
 
 2.由于本人水平学识有限，内容可能有误，希望大家帮忙指出，我及时改正，感谢大家
 
-
-
 ## 快速开始
 
 - 暂未整理
 
 ------
 
-
-
 ## 1.设计模式学习系列
 
 相关参考：https://refactoringguru.cn/design-patterns  带有主流语言的设计模式讲解
 
-​				https://www.runoob.com/design-pattern/proxy-pattern.html 菜鸟教程的设计模式
+​                https://www.runoob.com/design-pattern/proxy-pattern.html 菜鸟教程的设计模式
 
-​				https://github.com/shusheng007/design-patterns  秒懂设计模式系列
-
-
+​                https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 
 前言：SOLID六大原则+23种设计模式，几乎是每个程序员必学必会的内容，经典永流传，值得反复品味。
-
-
 
 六大设计原则：
 
@@ -68,7 +59,7 @@
 | [工厂模式（Factory Method）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95.md) | 2星  |
 | [抽象工厂模式（Abstract Factory）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82.md) | 4星  |
 | [建造者模式（Builder）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md) | 2星  |
-| 单例模式（Singleton）                                        | 1星  |
+| [单例模式（Singleton）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md) | 1星  |
 | 原型模式（Prototype）                                        | 1星  |
 
 ## 结构型
