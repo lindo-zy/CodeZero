@@ -2,6 +2,8 @@
 
 前言：IO指的是什么？什么是阻塞和非阻塞？什么是同步和异步？什么是IO多路复用?什么是事件驱动型IO？Linux下的select、poll、epoll是什么？希望大家通过本文有个了解
 
+[TOC]
+
 ### IO是什么？
 
 IO在计算机中指Input/Output，也就是输入和输出。常见的：数据读取、网络访问都是IO。
@@ -34,7 +36,7 @@ IO在计算机中指Input/Output，也就是输入和输出。常见的：数据
 - 非阻塞式 I/O
 - I/O 复用(select 、poll、epoll)
 - 异步 I/O(AIO)
-- 信号驱动式 I/O(SIGIO)
+- 信号驱动式 I/O(SIGIO) (用的比较少，可以参考附录链接)
 
 #### 阻塞式 I/O
 
