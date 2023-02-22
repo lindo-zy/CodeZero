@@ -96,4 +96,13 @@
 
 ### 数据结构
 
-[红黑树、B树、B+树](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BA%A2%E9%BB%91%E6%A0%91%E3%80%81B%E6%A0%91%E3%80%81B%2B%E6%A0%91.md)
+#### [红黑树、B树、B+树](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%BA%A2%E9%BB%91%E6%A0%91%E3%80%81B%E6%A0%91%E3%80%81B%2B%E6%A0%91.md)
+
+------
+
+#### [哈希算法](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E5%93%88%E5%B8%8C/%E5%93%88%E5%B8%8C%E7%AE%97%E6%B3%95.md)
+
+##### [pdf版本](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E5%93%88%E5%B8%8C/%E5%93%88%E5%B8%8C%E7%AE%97%E6%B3%95.pdf)
+
+------
+
