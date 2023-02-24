@@ -276,6 +276,8 @@ while(1) {
 
 epoll默认水平触发，虽然边缘触发性能好，但是处理不好容易出现漏数据的情况，一般不采用。
 
+![1677243421972](1677243421972.png)
+
 参考：
 
 https://pdai.tech/md/java/io/java-io-model.html
