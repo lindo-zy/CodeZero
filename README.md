@@ -106,3 +106,8 @@
 
 ------
 
+## 4.编程语言相关
+
+### python
+
+#### [搞定python装饰器](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python%E8%A3%85%E9%A5%B0%E5%99%A8/%E6%90%9E%E5%AE%9Apython%E8%A3%85%E9%A5%B0%E5%99%A8.md)
