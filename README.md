@@ -92,6 +92,8 @@
 
 #### [linux IO模型](https://github.com/lindo-zy/CodeZero/blob/main/docs/Linux%E7%9B%B8%E5%85%B3/IO%E6%A8%A1%E5%9E%8B/IO%E6%A8%A1%E5%9E%8B.md)
 
+#### [进程和线程](https://github.com/lindo-zy/CodeZero/blob/main/docs/Linux%E7%9B%B8%E5%85%B3/%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B/%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B.md)
+
 ## 3.计算机
 
 ### 数据结构
