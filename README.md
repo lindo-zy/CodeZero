@@ -62,31 +62,31 @@
 
 ### 结构型
 
-| 名称                    | 难度 | 链接 |
-| ----------------------- | ---- | ---- |
-| 适配器模式（Adapter）   | 1星  |      |
-| 桥接模式（Bridge）      | 4星  |      |
-| 组合模式（Composite）   |      |      |
-| 装饰者模式（Decorator） |      |      |
-| 外观模式（Facade）      | 1星  |      |
-| 享元模式（Flyweight）   |      |      |
-| 代理模式（Proxy）       | 3星  |      |
+| 名称                                                         | 难度 |
+| ------------------------------------------------------------ | ---- |
+| [适配器模式（Adapter）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E6%A8%A1%E5%BC%8F.md) | 1星  |
+| 桥接模式（Bridge）                                           | 4星  |
+| 组合模式（Composite）                                        |      |
+| 装饰者模式（Decorator）                                      |      |
+| 外观模式（Facade）                                           | 1星  |
+| 享元模式（Flyweight）                                        |      |
+| 代理模式（Proxy）                                            | 3星  |
 
 ### 行为型
 
-| 名称                                          | 难度 | 链接 |
-| --------------------------------------------- | ---- | ---- |
-| 责任链模式（Chain of responsibility）         |      |      |
-| 命令模式（Command）                           |      |      |
-| 解释器模式（Interpreter）（几乎用不上，略过） |      |      |
-| 迭代器模式（Iterator）                        |      |      |
-| 中介者模式（Mediator）                        |      |      |
-| 备忘录模式（Memento）                         |      |      |
-| 观察者模式（Observer）                        |      |      |
-| 策略模式（Strategy）                          |      |      |
-| 状态模式（State）                             |      |      |
-| 模板方法模式（Template method）               | 2星  |      |
-| 访问者模式（Visitor）                         | 5星  |      |
+| 名称                                          | 难度 |
+| --------------------------------------------- | ---- |
+| 责任链模式（Chain of responsibility）         |      |
+| 命令模式（Command）                           |      |
+| 解释器模式（Interpreter）（几乎用不上，略过） |      |
+| 迭代器模式（Iterator）                        |      |
+| 中介者模式（Mediator）                        |      |
+| 备忘录模式（Memento）                         |      |
+| 观察者模式（Observer）                        |      |
+| 策略模式（Strategy）                          |      |
+| 状态模式（State）                             |      |
+| 模板方法模式（Template method）               | 2星  |
+| 访问者模式（Visitor）                         | 5星  |
 
 ## 2.Linux相关
 
