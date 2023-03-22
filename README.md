@@ -52,7 +52,7 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 
 **设计模式一共23种，分为3个大类，创建型、结构型、行为型。**
 
-### 创建型
+### 创建型(Creational Patterns)
 
 | 名称                                                         | 难度 |
 | ------------------------------------------------------------ | ---- |
@@ -62,19 +62,19 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 | [单例模式（Singleton）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md) | 1星  |
 | [原型模式（Prototype）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F/%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md) | 2星  |
 
-### 结构型
+### 结构型(Structural Patterns)
 
 | 名称                                                         | 难度 |
 | ------------------------------------------------------------ | ---- |
 | [适配器模式（Adapter）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E6%A8%A1%E5%BC%8F.md) | 1星  |
-| 桥接模式（Bridge）                                           | 4星  |
+| [桥接模式（Bridge）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md) | 4星  |
 | 组合模式（Composite）                                        |      |
 | 装饰者模式（Decorator）                                      |      |
 | 外观模式（Facade）                                           | 1星  |
 | 享元模式（Flyweight）                                        |      |
 | 代理模式（Proxy）                                            | 3星  |
 
-### 行为型
+### 行为型(Behavioral Patterns)
 
 | 名称                                          | 难度 |
 | --------------------------------------------- | ---- |
