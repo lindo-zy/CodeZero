@@ -14,11 +14,13 @@
 
 ## 1.设计模式学习系列
 
-相关参考：https://refactoringguru.cn/design-patterns  带有主流语言的设计模式讲解
+**相关参考**：
 
-​                https://www.runoob.com/design-pattern/proxy-pattern.html 菜鸟教程的设计模式
+https://refactoringguru.cn/design-patterns  带有主流语言的设计模式讲解
 
-​                https://github.com/shusheng007/design-patterns  秒懂设计模式系列
+https://www.runoob.com/design-pattern/proxy-pattern.html 菜鸟教程的设计模式
+
+https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 
 前言：SOLID六大原则+23种设计模式，几乎是每个程序员必学必会的内容，经典永流传，值得反复品味。
 
@@ -48,7 +50,7 @@
 
 简答概括：一个对象应该对其他对象有最少的了解，不和陌生对象交流。类尽量少的依赖其他类，只和自己直接相关的类有使用。
 
-**设计模式一共23种，分为3个大类，创建型、结构型、行为型。**点击名称即可查看文档
+**设计模式一共23种，分为3个大类，创建型、结构型、行为型。**
 
 ### 创建型
 
