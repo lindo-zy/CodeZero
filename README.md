@@ -69,7 +69,7 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 | [适配器模式（Adapter）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F/%E9%80%82%E9%85%8D%E6%A8%A1%E5%BC%8F.md) | 1星  |
 | [桥接模式（Bridge）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md) | 4星  |
 | [组合模式（Composite）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F/%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md) | 3星  |
-| 装饰器模式（Decorator）                                      |      |
+| [装饰器模式（Decorator）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.md) | 2星  |
 | 外观模式（Facade）                                           | 1星  |
 | 享元模式（Flyweight）                                        |      |
 | 代理模式（Proxy）                                            | 3星  |
