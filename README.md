@@ -76,19 +76,19 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 
 ### 行为型(Behavioral Patterns)
 
-| 名称                                          | 难度 |
-| --------------------------------------------- | ---- |
-| 责任链模式（Chain of responsibility）         |      |
-| 命令模式（Command）                           |      |
-| 解释器模式（Interpreter）（几乎用不上，略过） |      |
-| 迭代器模式（Iterator）                        |      |
-| 中介者模式（Mediator）                        |      |
-| 备忘录模式（Memento）                         |      |
-| 观察者模式（Observer）                        |      |
-| 策略模式（Strategy）                          |      |
-| 状态模式（State）                             |      |
-| 模板方法模式（Template method）               | 2星  |
-| 访问者模式（Visitor）                         | 5星  |
+| 名称                                                         | 难度 |
+| ------------------------------------------------------------ | ---- |
+| [责任链模式（Chain of responsibility）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md) | 3星  |
+| 命令模式（Command）                                          |      |
+| 解释器模式（Interpreter）（几乎用不上，略过）                |      |
+| 迭代器模式（Iterator）                                       |      |
+| 中介者模式（Mediator）                                       |      |
+| 备忘录模式（Memento）                                        |      |
+| 观察者模式（Observer）                                       |      |
+| 策略模式（Strategy）                                         |      |
+| 状态模式（State）                                            |      |
+| 模板方法模式（Template method）                              | 2星  |
+| 访问者模式（Visitor）                                        | 5星  |
 
 ## 2.Linux相关
 
