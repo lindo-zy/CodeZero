@@ -78,8 +78,8 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 
 | 名称                                                         | 难度 |
 | ------------------------------------------------------------ | ---- |
-| [责任链模式（Chain of responsibility）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md) | 3星  |
-| 命令模式（Command）                                          |      |
+| [责任链模式（Chain of responsibility）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md) | 1星  |
+| [命令模式（Command）]((https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)) | 3星  |
 | 解释器模式（Interpreter）（几乎用不上，略过）                |      |
 | 迭代器模式（Iterator）                                       |      |
 | 中介者模式（Mediator）                                       |      |
