@@ -80,8 +80,8 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 | ------------------------------------------------------------ | ---- |
 | [责任链模式（Chain of responsibility）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md) | 1星  |
 | [命令模式（Command）]((https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)) | 3星  |
-| 解释器模式（Interpreter）（几乎用不上，略过）                |      |
-| 迭代器模式（Iterator）                                       |      |
+| 解释器模式（Interpreter）（几乎用不上，略过）                | 5星  |
+| [迭代器模式（Iterator）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md) | 2星  |
 | 中介者模式（Mediator）                                       |      |
 | 备忘录模式（Memento）                                        |      |
 | 观察者模式（Observer）                                       |      |
@@ -117,3 +117,4 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 #### [搞定python装饰器](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python%E8%A3%85%E9%A5%B0%E5%99%A8/%E6%90%9E%E5%AE%9Apython%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 
 #### [GIL全局解释器锁](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/python/GIL/GIL%E5%85%A8%E5%B1%80%E8%A7%A3%E9%87%8A%E5%99%A8%E9%94%81.md)
+
