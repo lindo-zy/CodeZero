@@ -82,7 +82,7 @@ https://github.com/shusheng007/design-patterns  秒懂设计模式系列
 | [命令模式（Command）]((https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)) | 3星  |
 | 解释器模式（Interpreter）（几乎用不上，略过）                | 5星  |
 | [迭代器模式（Iterator）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md) | 2星  |
-| 中介者模式（Mediator）                                       |      |
+| [中介者模式（Mediator）](https://github.com/lindo-zy/CodeZero/blob/main/docs/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F/%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md) |      |
 | 备忘录模式（Memento）                                        |      |
 | 观察者模式（Observer）                                       |      |
 | 策略模式（Strategy）                                         |      |
