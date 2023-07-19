@@ -32,7 +32,7 @@ class Solution:
 
 5.测试在哪些地方可以提升效率
 
-
+6.K8S和docker，展开讲讲，开放性问题
 
 算法题：https://leetcode.cn/problems/trapping-rain-water/ 幸好做过，直接AC
 
